@@ -4,3 +4,4 @@ hahaha
 LosAngles is cool!
 Git is a distributed version control sys.
 Git is GPL.
+Git has a mutable index called stage.
