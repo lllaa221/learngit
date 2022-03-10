@@ -6,8 +6,5 @@ Git is a distributed version control sys.
 Git is GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-<<<<<<< HEAD
 Creating a new branch -s quick AND simple.
-=======
-Creating a new branch -s quick AND simple.
->>>>>>> feature1
+...
